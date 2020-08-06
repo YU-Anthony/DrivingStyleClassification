@@ -1,0 +1,4 @@
+Time (ms): Distance (meters): Speed (km/h) : Acceleration (m/s^2): Distance Ahead (meters) 
+1565575464849:9.721166508627967:0.01:0.0:0.0
+Time (ms): Distance (meters): Speed (km/h) : Acceleration (m/s^2): Distance Ahead (meters) 
+1565575464849:9.721166508627967:0.01:0.0:0.0
